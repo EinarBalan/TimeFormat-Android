@@ -131,11 +131,6 @@ import java.util.Locale;
                             raw.substring(raw.length() - index));
                 }
 
-
-//                if (sec >= 60) {
-//                    min += sec / 60;
-//                    sec = sec % 60;
-//                }
             }
 
             return String.format(Locale.getDefault(), "%dm %02ds", min, sec);
