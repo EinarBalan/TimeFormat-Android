@@ -1,4 +1,4 @@
-package com.balanstudios.showerly;
+package YOUR_PACKAGE_HERE;
 
 
 import android.content.Context;
